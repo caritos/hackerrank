@@ -23,4 +23,6 @@
 hs_err_pid*
 
 # ide related
-.idea
+.idea/
+.gradle/
+build/
